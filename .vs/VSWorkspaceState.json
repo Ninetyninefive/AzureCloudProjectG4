@@ -1,6 +1,11 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Views",
+    "\\wwwroot\\css",
+    "\\wwwroot\\js",
+    "\\wwwroot\\lib"
   ],
+  "SelectedNode": "\\AzureCloudProjectG4.sln",
   "PreviewInSolutionExplorer": false
 }
