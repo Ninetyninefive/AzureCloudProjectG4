@@ -27,6 +27,25 @@ namespace AzureCloudProjectG4.Controllers
         {
             return View();
         }
+        public IActionResult Oskar()
+        {
+            return View();
+        }
+
+        public IActionResult Terry()
+        {
+            return View();
+        }
+
+        public IActionResult Bhuvana()
+        {
+            return View();
+        }
+
+        public IActionResult Casper()
+        {
+            return View();
+        }
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
