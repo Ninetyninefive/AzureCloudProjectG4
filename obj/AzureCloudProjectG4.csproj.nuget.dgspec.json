@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Seiku\\Desktop\\AzureCloudProjectG4\\AzureCloudProjectG4.csproj": {}
+    "C:\\cygwin64\\home\\Lindskog\\AzureCloudProjectG4\\AzureCloudProjectG4.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Seiku\\Desktop\\AzureCloudProjectG4\\AzureCloudProjectG4.csproj": {
+    "C:\\cygwin64\\home\\Lindskog\\AzureCloudProjectG4\\AzureCloudProjectG4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Seiku\\Desktop\\AzureCloudProjectG4\\AzureCloudProjectG4.csproj",
+        "projectUniqueName": "C:\\cygwin64\\home\\Lindskog\\AzureCloudProjectG4\\AzureCloudProjectG4.csproj",
         "projectName": "AzureCloudProjectG4",
-        "projectPath": "C:\\Users\\Seiku\\Desktop\\AzureCloudProjectG4\\AzureCloudProjectG4.csproj",
-        "packagesPath": "C:\\Users\\Seiku\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Seiku\\Desktop\\AzureCloudProjectG4\\obj\\",
+        "projectPath": "C:\\cygwin64\\home\\Lindskog\\AzureCloudProjectG4\\AzureCloudProjectG4.csproj",
+        "packagesPath": "C:\\Users\\Lindskog\\.nuget\\packages\\",
+        "outputPath": "C:\\cygwin64\\home\\Lindskog\\AzureCloudProjectG4\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Seiku\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Lindskog\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -57,7 +57,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }
